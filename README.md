@@ -8,5 +8,7 @@ Requeriments:
 4. `vagrant up`
 5. `vagrant ssh`
 
+Scenarios:
+
 Cleanup:
 `vagrant destroy`
